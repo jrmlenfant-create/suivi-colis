@@ -1,0 +1,15 @@
+{
+  "name": "Suivi de Colis",
+  "short_name": "Mon Colis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/684/684900.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
